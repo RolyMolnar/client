@@ -2,7 +2,7 @@
   "homepage": "http://RolyMolnar.github.io/client",
   "name": "client",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "axios": "^0.18.0",
     "react": "^16.5.0",
